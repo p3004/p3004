@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pallab Banerjee
-- 👀 I’m interested in Android development, Backend development and Game development
+- 👀 I’m am an Android developer for the last 4 years, and also dived into Backend development with dropwizard and Game development with Unity
 - 🌱 I’m currently learning SpringBoot, I am also interested in Game Development with Unity and 3d animation using Blender
 - 📫 You can reach me @Gmail -> pallab.115045@gmail.com
                        @LinkedIn -> https://www.linkedin.com/in/pallab-banerjee-522a6a148/
